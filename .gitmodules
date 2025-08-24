@@ -1,0 +1,156 @@
+[submodule "areasprotector"]
+	path = areasprotector
+	url = git://cheapiesystems.com/areasprotector
+[submodule "autoclose_doors"]
+	path = autoclose_doors
+	url = https://github.com/mt-mods/autoclose_doors
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://github.com/mt-mods/basic_materials
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores
+[submodule "mobs_sky"]
+	path = mobs_sky
+	url = https://codeberg.org/tenplus1/mobs_sky
+[submodule "Minetest-WorldEdit"]
+	path = Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = https://codeberg.org/tenplus1/mobs_animal
+[submodule "mob_horse"]
+	path = mob_horse
+	url = https://codeberg.org/tenplus1/mob_horse
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://codeberg.org/tenplus1/mobs_redo
+[submodule "item_drop"]
+	path = item_drop
+	url = https://github.com/minetest-mods/item_drop
+[submodule "mobs_npc"]
+	path = mobs_npc
+	url = https://codeberg.org/tenplus1/mobs_npc
+[submodule "mobs_monster"]
+	path = mobs_monster
+	url = https://codeberg.org/tenplus1/mobs_monster
+[submodule "teleport-request"]
+	path = teleport-request
+	url = https://github.com/minetest-mods/teleport-request
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://github.com/mt-mods/signs_lib.git
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/calinou/maptools
+[submodule "names_per_ip"]
+	path = names_per_ip
+	url = https://github.com/SmallJoker/names_per_ip
+[submodule "bucket_privs"]
+	path = bucket_privs
+	url = git@github.com:ChaosWormz/bucket_privs.git
+[submodule "simple_streetlights"]
+	path = simple_streetlights
+	url = https://github.com/mt-mods/simple_streetlights
+[submodule "homedecor_modpack"]
+	path = homedecor_modpack
+	url = https://github.com/mt-mods/homedecor_modpack
+[submodule "snippets"]
+	path = snippets
+	url = https://github.com/mt-historical/snippets
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://github.com/mt-mods/unifieddyes.git
+[submodule "gloopblocks"]
+	path = gloopblocks
+	url = https://github.com/mt-mods/gloopblocks
+[submodule "invsaw"]
+	path = invsaw
+	url = https://github.com/mt-mods/invsaw
+[submodule "ilights"]
+	path = ilights
+	url = https://github.com/mt-mods/ilights
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://github.com/mt-mods/basic_signs
+[submodule "dropthecaps"]
+	path = dropthecaps
+	url = https://cheapiesystems.com/git/dropthecaps/
+[submodule "irc"]
+	path = irc
+	url = https://github.com/minetest-mods/irc
+[submodule "itemframes"]
+	path = itemframes
+	url = https://codeberg.org/tenplus1/itemframes
+[submodule "currency"]
+	path = currency
+	url = https://github.com/mt-mods/currency
+[submodule "vps_blocker"]
+	path = vps_blocker
+	url = https://github.com/Lejo1/vps_blocker
+[submodule "letters"]
+	path = letters
+	url = https://github.com/minetest-mods/letters
+[submodule "xban2"]
+	path = xban2
+	url = https://github.com/minetest-mods/xban2
+[submodule "mobs_water"]
+	path = mobs_water
+	url = https://codeberg.org/tenplus1/mobs_water
+[submodule "newplayer"]
+	path = newplayer
+	url = https://cheapiesystems.com/git/newplayer
+[submodule "fsc"]
+	path = fsc
+	url = https://github.com/sofar/fsc
+[submodule "pbj_pup"]
+	path = pbj_pup
+	url = https://codeberg.org/tenplus1/pbj_pup
+[submodule "skinsdb"]
+	path = skinsdb
+	url = https://github.com/minetest-mods/skinsdb
+[submodule "inspector"]
+	path = inspector
+	url = https://github.com/minetest-mods/inspector
+[submodule "wield3d"]
+	path = wield3d
+	url = https://github.com/minetest-mods/wield3d
+[submodule "travelnet"]
+	path = travelnet
+	url = https://github.com/mt-mods/travelnet
+[submodule "irc_commands"]
+	path = irc_commands
+	url = https://github.com/minetest-mods/irc_commands
+[submodule "notice"]
+	path = notice
+	url = https://github.com/BlockCityCreative/notice/
+[submodule "food_modern"]
+	path = food_modern
+	url = git@github.com:rubenwardy/food_modern.git
+[submodule "food_sweet"]
+	path = food_sweet
+	url = git@github.com:rubenwardy/food_sweet.git
+[submodule "food"]
+	path = food
+	url = git@github.com:rubenwardy/food.git
+[submodule "mt_morcmds"]
+	path = mt_morcmds
+	url = https://github.com/ChaosWormz/mt_morcmds.git
+[submodule "65c62c6709aa8d36e7f352b797759c74"]
+	path = 65c62c6709aa8d36e7f352b797759c74
+	url = https://gist.github.com/kaeza/65c62c6709aa8d36e7f352b797759c74
+[submodule "caverealms_lite"]
+	path = caverealms_lite
+	url = https://github.com/Ezhh/caverealms_lite.git
+[submodule "climate"]
+	path = climate
+	url = https://github.com/t-affeldt/climate
