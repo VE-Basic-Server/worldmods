@@ -145,8 +145,8 @@
 [submodule "mt_morcmds"]
 	path = mt_morcmds
 	url = https://github.com/ChaosWormz/mt_morcmds.git
-[submodule "65c62c6709aa8d36e7f352b797759c74"]
-	path = 65c62c6709aa8d36e7f352b797759c74
+[submodule "irc_grep"]
+	path = irc_grep
 	url = https://gist.github.com/kaeza/65c62c6709aa8d36e7f352b797759c74
 [submodule "caverealms_lite"]
 	path = caverealms_lite
