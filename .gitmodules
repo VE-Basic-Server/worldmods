@@ -154,3 +154,9 @@
 [submodule "climate"]
 	path = climate
 	url = https://github.com/t-affeldt/climate
+[submodule "reboot_warner"]
+	path = reboot_warner
+	url = https://github.com/mt-mods/reboot_warner
+[submodule "round_trunks"]
+	path = round_trunks
+	url = https://github.com/mt-mods/round_trunks
