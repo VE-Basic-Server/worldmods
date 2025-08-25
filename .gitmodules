@@ -160,3 +160,6 @@
 [submodule "round_trunks"]
 	path = round_trunks
 	url = https://github.com/mt-mods/round_trunks
+[submodule "bedrock"]
+	path = bedrock
+	url = https://github.com/Calinou/bedrock
