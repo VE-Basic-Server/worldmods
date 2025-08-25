@@ -88,9 +88,6 @@
 [submodule "irc"]
 	path = irc
 	url = https://github.com/minetest-mods/irc
-[submodule "itemframes"]
-	path = itemframes
-	url = https://codeberg.org/tenplus1/itemframes
 [submodule "currency"]
 	path = currency
 	url = https://github.com/mt-mods/currency
@@ -163,3 +160,6 @@
 [submodule "bedrock"]
 	path = bedrock
 	url = https://github.com/Calinou/bedrock
+[submodule "xcompat"]
+	path = xcompat
+	url = https://github.com/mt-mods/xcompat
