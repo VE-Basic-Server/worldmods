@@ -166,3 +166,6 @@
 [submodule "lighting_monoids"]
 	path = lighting_monoids
 	url = https://github.com/t-affeldt/lighting_monoids
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids
