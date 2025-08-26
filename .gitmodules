@@ -163,3 +163,6 @@
 [submodule "xcompat"]
 	path = xcompat
 	url = https://github.com/mt-mods/xcompat
+[submodule "lighting_monoids"]
+	path = lighting_monoids
+	url = https://github.com/t-affeldt/lighting_monoids
